@@ -1,0 +1,147 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hey"],
+    "bot_response": "hey there !",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["see you", "goodbye", "bye"],
+    "bot_response": "See you later!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["nice", "to", "meet", "you"],
+    "bot_response": "The pleasure is all mine!",
+    "required_words": ["nice", "meet", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["give", "brief", "description", "of", "this","boat","bot","yourself","ok"],
+    "bot_response": "I am a Invention of Akshat and Mayank, My name is Climate bot. You can ask question related to climate and weather.",
+    "required_words": ["about","yourself"]
+  },
+  {
+    "response_type": "name",
+    "user_input": ["what", "is", "your", "name"],
+    "bot_response": "My name is Climate bot, I am a Invention of Akshat and Mayank.",
+    "required_words": ["name"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "are", "you"],
+    "bot_response": "I'm great! Thanks for asking.",
+    "required_words": ["how", "are", "you"]
+  },
+  {
+    "response_type": "question1",
+    "user_input": ["what", "is", "meant","by","climate","action"],
+    "bot_response": "The act of doing something to reduce or stop climate change and prevent serious permanent damage to the Environment.",
+    "required_words": ["climate", "action", "meant"]
+  },
+  {
+    "response_type": "question2",
+    "user_input": ["what","is","the","target","of","climate","action"],
+    "bot_response": "By 2030 Strengthen Resilience and adaptive capacity to Climate-related hazards and natural disasters in all Countries.",
+    "required_words": ["target", "climate", "action"]
+  },
+  {
+    "response_type": "question3",
+    "user_input": ["what", "do","you", "mean","by","climate","action"],
+    "bot_response": "The act of doint something to reduce or stop climate change and prevent serious permanent damage to the Environment.",
+    "required_words": ["climate", "action", "mean"]
+  },
+  {
+    "response_type": "question4",
+    "user_input": ["what", "is","difference", "between","weather","and","climate"],
+    "bot_response": "Weather refers to short term Atmostpheric Conditions while climate is the weather of a specific region over a long period of time.",
+    "required_words": ["difference", "weather", "climate"]
+  },
+  {
+    "response_type": "question5",
+    "user_input": ["what", "can","you", "do"],
+    "bot_response": "You can ask question related to climate and weather.",
+    "required_words": ["what", "can", "you","do"]
+  },
+  {
+    "response_type": "bot",
+    "user_input": ["what","is","purpose","of","creating","you"],
+    "bot_response": "You can ask question related to climate and weather.",
+    "required_words": ["purpose", "creating","you"]
+  },
+  {
+    "response_type": "question6",
+    "user_input": ["what","are","the","things","is","the","that","affect","effect","of","climate","change"],
+    "bot_response": "There are several things that affect climate change, some of them are - Greenhouse Gases, Volcanic Activities, Variations in Solar Activity, and more.",
+    "required_words": ["things","climate","change"]
+  },
+  {
+    "response_type": "question7",
+    "user_input": ["how","do","stop","climate","change"],
+    "bot_response": "Power your home with renewable energy, invest in energy Efficient appliances, Reduce water waste.",
+    "required_words": ["stop","climate","change"]
+  },
+  {
+    "response_type": "question8",
+    "user_input": ["how","is","climate","change","affect","affecting","people","peoples"],
+    "bot_response": "Climate change is already impacting health in many ways, including by leading to death and Illness from Increasingly frequent Extreme weather events, such as heatwaves, storms and floods.",
+    "required_words": ["climate","change","affecting","people"]
+  },
+  {
+    "response_type": "question9",
+    "user_input": ["what","happens","if","climate","continue","change","continues"],
+    "bot_response": "Earth will continue to warm and the effects will be profound.",
+    "required_words": ["climate","change","continues"]
+  },  
+  {
+    "response_type": "question10",
+    "user_input": ["what","kinds","of","data","scientists","use","to","study","climate"],
+    "bot_response": "Climate reseachers use every possible direct and indirect measurement to study the full History of earth's climate, from the latest satellite observations to samples of prehistoric ice extracted from Glacier.",
+    "required_words": ["data","study","climate"]
+  },
+  {
+    "response_type": "question11",
+    "user_input": ["how","is","climate","likely","to","change","in","the","future"],
+    "bot_response": "The Earth's future climate will depend on weather the world manages to slow or reduce greenhouse gas emissions, but warming is likely to continue.",
+    "required_words": ["climate","future"]
+  },  
+  {
+    "response_type": "question12",
+    "user_input": ["how","can","we","adapt","to","a","changing","climate"],
+    "bot_response": "Adaption to Climate change can prepare communities, Industries and Infrastructure for the Future.",
+    "required_words": ["adapt","climate","changing"]
+  },  
+  {
+    "response_type": "question13",
+    "user_input": ["what","are","the","impacts","of","extreme","weather","and","climate","events"],
+    "bot_response": "Increases in Extreme Climate events pose challenges for Australia now and in the future.",
+    "required_words": ["impacts","weather","climate"]
+  },
+  {
+    "response_type": "question14",
+    "user_input": ["how","confident","are","we","about","the","science","of","climate","change"],
+    "bot_response": "The main Impacts and Mechanisms of physical climate change are scientically well-understand, but specific estimates of these impacts are uncertain.",
+    "required_words": ["confident","science","climate","change"]
+  },
+  {
+    "response_type": "question15",
+    "user_input": [""],
+    "bot_response": ".",
+    "required_words": [""]
+  },
+  {
+    "response_type": "question16",
+    "user_input": ["how","does","climate","change","affect","plants","and","crops"],
+    "bot_response": "Rising Global Temperatures also are linked with changes in Rainfall Patterns, and the frequency and duration of Heat waves and Droughts, which can affect crop health and productivity. Higher Temperatures also affect the length of growing seasons and accelerate crop maturity.",
+    "required_words": ["climate","plant","crops"]
+  },
+  {
+    "response_type": "ok",
+    "user_input": ["ok","okay"],
+    "bot_response": "I am happy to hear that!",
+    "required_words": ["ok"]
+  }
+
+]
