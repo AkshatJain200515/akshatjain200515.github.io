@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Jigar Sable";
+            document.title = "Portfolio | Akshat Jain";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["frontend development", "backend development", "web designing", "android development", "web development"],
+    strings: ["python developer", "sql developer", "Tech Problem Solving", "Creative Thinking", "Building Solutions That Matter", "Always Learning, Always Growing"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
