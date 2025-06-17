@@ -17,6 +17,15 @@
     "links": {
       "view": "https://github.com/AkshatJain200515/Library-Management-System",
       "code": "https://github.com/AkshatJain200515/Library-Management-System"
+    },
+  {
+    "name": "Bank ATM Machine",
+    "desc": "Developed a Python-based ATM simulation with features like PIN authentication, balance inquiry, withdrawals, deposits, and transaction history management using OOP principles.",
+    "image": "atm",
+    "category": "Python",
+    "links": {
+      "view": "https://github.com/AkshatJain200515/Bank_ATM_Machine",
+      "code": "https://github.com/AkshatJain200515/Bank_ATM_Machine"
     }
   }
 ]
