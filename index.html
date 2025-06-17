@@ -114,40 +114,16 @@
     <h2 class="heading"><i class="fas fa-laptop-code"></i> Skills & <span>Abilities</span></h2>
 
     <div class="container">
-          <div id="skillsContainer"></div>
+          <div class="row" id="skillsContainer">
 
-            <script>
-                async function fetchData(type = "skills") {
-                    let response;
-                    if (type === "skills") {
-                        response = await fetch("skills.json");
-                    } else {
-                        response = await fetch("./projects/projects.json");
-                    }
-                    const data = await response.json();
-                    return data;
-                }
+            <!-- <div class="bar">
+              <div class="info">
+                <img src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>
+                <span>AdobeXD</span>
+              </div>
+            </div> -->
 
-                function showSkills(skills) {
-                    let skillsContainer = document.getElementById("skillsContainer");
-                    let skillHTML = "";
-                    skills.forEach(skill => {
-                        skillHTML += `
-                        <div class="bar">
-                              <div class="info">
-                                <img src="${skill.icon}" alt="skill" />
-                                <span>${skill.name}</span>
-                              </div>
-                            </div>`;
-                    });
-                    skillsContainer.innerHTML = skillHTML;
-                }
-                
-                window.onload = async () => {
-                    const skills = await fetchData("skills");
-                    showSkills(skills);
-                };
-            </script>
+      </div>
 </div>
 </section>
 <!-- skills section ends -->
