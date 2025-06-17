@@ -2,7 +2,7 @@
   {
     "name": "Voice Assistant",
     "desc": "A Python voice assistant that provides real-time weather and temperature using speech recognition.",
-    "image": "Voice_Assistant",
+    "image": "Voice",
     "category": "Python",
     "links": {
       "view": "https://github.com/AkshatJain200515/Climate_Voice_Assistant",
